@@ -380,7 +380,7 @@ npm run dev
      
   ### บันทึกผลการทดลอง
   ![แทรกรูปการตั้งค่า Postman](path/to/your/image.png)
-
+<img width="1029" alt="ภาพถ่ายหน้าจอ 2568-02-26 เวลา 11 06 12" src="https://github.com/user-attachments/assets/99b855f7-1a3e-4f0b-b5e5-8c8dc94f76cd" />
 1. การทดสอบ Request:
    - ตรวจสอบว่า Node.js server กำลังทำงานอยู่
    - คลิกปุ่ม "Send"
@@ -391,7 +391,7 @@ npm run dev
    ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
   ทดสอบเพิ่มข้อมูลการจองอีก 2 ครั้ง โดยเปลี่ยนแปลงข้อมูลในการจองเพื่อให้มีความแตกต่างกันในแต่ละครั้ง
-  
+  ![image](https://github.com/user-attachments/assets/eefe81ac-522a-42c7-b13f-4663c42bdb13)
 
 2. การสร้าง Request อื่นๆ:
    ทำตามขั้นตอนต่อไปนี้สำหรับแต่ละ Request:
@@ -412,7 +412,7 @@ npm run dev
 
   ### บันทึกผลการทดลอง
   ![แทรกรูปผลการ Get ข้อมูลโดยระบุ ID](path/to/your/image.png)
-
+![image](https://github.com/user-attachments/assets/eb440322-b807-445b-b930-8c53ba7e4b20)
    c) Update Booking:
    - สร้าง Request ใหม่ชื่อ "Update Booking"
    - เลือก Method: PUT
