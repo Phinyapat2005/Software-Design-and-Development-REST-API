@@ -378,7 +378,7 @@ npm run dev
    ```
    - คลิกปุ่ม "Save" ที่มุมขวาบน
      
-  ### บันทึกผลการทดลอง
+  ### บันทึกผลการทดลอง![image](https://github.com/user-attachments/assets/c81bf319-ed4d-427b-92f8-f64c199e7274)
   ![แทรกรูปการตั้งค่า Postman](path/to/your/image.png)
 
 1. การทดสอบ Request:
@@ -391,7 +391,7 @@ npm run dev
    ### บันทึกผลการทดลอง
   ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
   ทดสอบเพิ่มข้อมูลการจองอีก 2 ครั้ง โดยเปลี่ยนแปลงข้อมูลในการจองเพื่อให้มีความแตกต่างกันในแต่ละครั้ง
-  
+  ![image](https://github.com/user-attachments/assets/caeadf46-7690-4e4a-8614-98f993f3257f)
 
 2. การสร้าง Request อื่นๆ:
    ทำตามขั้นตอนต่อไปนี้สำหรับแต่ละ Request:
@@ -401,7 +401,7 @@ npm run dev
    - เลือก Method: GET
    - URL: http://localhost:3000/api/bookings
 
-  ### บันทึกผลการทดลอง
+  ### บันทึกผลการทดลอง![image](https://github.com/user-attachments/assets/43b3e82e-d428-468c-a213-8ae676efd49f)
   ![แทรกรูปผลการ Get ข้อมูลทั้งหมด](path/to/your/image.png)
 
    b) Get Booking by ID:
@@ -410,7 +410,7 @@ npm run dev
    - URL: http://localhost:3000/api/bookings/1
    (เปลี่ยนเลข 1 เป็น ID ที่ได้จากการสร้างข้อมูล)
 
-  ### บันทึกผลการทดลอง
+  ### บันทึกผลการทดลอง![image](https://github.com/user-attachments/assets/9fbd29a0-e264-47b1-ac67-65148e796de2)
   ![แทรกรูปผลการ Get ข้อมูลโดยระบุ ID](path/to/your/image.png)
 
    c) Update Booking:
@@ -420,7 +420,7 @@ npm run dev
    - ตั้งค่า Headers และ Body เหมือน Create Booking
    - แก้ไขข้อมูลบางส่วนใน JSON
 
-  ### บันทึกผลการทดลอง
+  ### บันทึกผลการทดลอง![image](https://github.com/user-attachments/assets/9722c326-0103-44fd-856e-4a3f6cc50f8a)
   ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
 
    d) Delete Booking:
@@ -429,8 +429,7 @@ npm run dev
    - URL: http://localhost:3000/api/bookings/1
   
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
-
+![image](https://github.com/user-attachments/assets/caca76ff-1d98-4770-b3cd-963b38050774)
   ### หยุดการทำงานของ API Server โดยกดปุ่ม Ctrl + c
 
 
@@ -697,7 +696,8 @@ if __name__ == '__main__':
 python app.py   # กรณีบน macOS ใช้ python3 app.py
 ```
 ผลลัพธ์การรัน API Server ด้วย Python
-![ผลลัพธ์การรัน API Server ด้วย Python](./images/runPythonApp.png)
+![image](https://github.com/user-attachments/assets/96ab3dfc-0756-4cc1-bedf-c530ec096eb5)
+
 
 เปิด Postman และสร้าง Collection ใหม่ชื่อ "Hotel Booking API - Python"
 
